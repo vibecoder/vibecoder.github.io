@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on VibeCoder</title><link>https://vibecoder.dev/posts/</link><description>Recent content in Posts on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><atom:link href="https://vibecoder.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://vibecoder.dev/posts/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/home/</guid><description>Hi there My name is VibeCoder, this place I use to present my ideas.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on VibeCoder</title><link>https://vibecoder.dev/posts/</link><description>Recent content in Posts on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Learning rust</title><link>https://vibecoder.dev/posts/rust/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/rust/</guid><description>First of all, rust is totally new to me.
+I do not understand what it is trying to resolve.
+First thing that I have learned is that ..
+The if statements do not need the paranenthesis. Shows up a weird warning. Should not be strict right..
+The semicolon is optional . Sometimes it matters othertimes it does not. This is confusing.
+println! statement is a macro.</description><content>&lt;p>First of all, rust is totally new to me.&lt;/p>
+&lt;p>I do not understand what it is trying to resolve.&lt;/p>
+&lt;p>First thing that I have learned is that ..&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>The if statements do not need the paranenthesis. Shows up a weird warning. Should not be strict right..&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The semicolon is optional . Sometimes it matters othertimes it does not. This is confusing.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>println! statement is a macro.. what does a macro mean..&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>let mut x = 10 ; and const x : i32 = 10 ;&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>The constant expressions are written as&lt;/p>
+&lt;p>const HELLO_WORLD : i32 = 10;&lt;/p>
+&lt;p>The constant value cannot be evaluated at runtime. Immutable variables can be evaluated during the runtime.&lt;/p>
+&lt;p>Reached till here during my small session.&lt;/p>
+&lt;p>&lt;a href="https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html">https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html&lt;/a>&lt;/p>
+&lt;p>Decided to skip the guessing_game.&lt;/p>
+&lt;p>I do not understand match and options and enums yet.&lt;/p>
+&lt;p>What the fuck are those.&lt;/p>
+&lt;p>Decided to build a fizz buzz.. The loop keyword is like while loop.. But I am not sure how to write a for loop yet.&lt;/p></content></item><item><title/><link>https://vibecoder.dev/posts/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/home/</guid><description>Hi there My name is VibeCoder, this place I use to present my ideas.
 So, there you have it&amp;hellip; enjoy!</description><content>&lt;h1 id="hi-there">Hi there&lt;/h1>
 &lt;p>My name is VibeCoder, this place I use to present my ideas.&lt;/p>
 &lt;p>So, there you have it&amp;hellip; enjoy!&lt;/p></content></item></channel></rss>
