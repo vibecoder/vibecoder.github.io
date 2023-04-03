@@ -42,7 +42,14 @@ println! statement is a macro.</description><content>&lt;p>First of all, rust is
 &lt;p>Decided to build a fizz buzz.. The loop keyword is like while loop.. But I am not sure how to write a for loop yet.&lt;/p></content></item><item><title>About</title><link>https://vibecoder.dev/about/</link><pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/about/</guid><description>Hi there My name is VibeCoder, this place I use to present my ideas.
 So, there you have it&amp;hellip; enjoy!</description><content>&lt;h1 id="hi-there">Hi there&lt;/h1>
 &lt;p>My name is VibeCoder, this place I use to present my ideas.&lt;/p>
-&lt;p>So, there you have it&amp;hellip; enjoy!&lt;/p></content></item><item><title/><link>https://vibecoder.dev/posts/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/home/</guid><description>Hi there My name is VibeCoder, this place I use to present my ideas.
-So, there you have it&amp;hellip; enjoy!</description><content>&lt;h1 id="hi-there">Hi there&lt;/h1>
-&lt;p>My name is VibeCoder, this place I use to present my ideas.&lt;/p>
-&lt;p>So, there you have it&amp;hellip; enjoy!&lt;/p></content></item></channel></rss>
+&lt;p>So, there you have it&amp;hellip; enjoy!&lt;/p></content></item><item><title/><link>https://vibecoder.dev/todo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/todo/</guid><description>Make the center footer wide..
+Change the favicon
+Change the logo text..
+Update the about page..
+Make a portfolio on the front page
+Upload some photos</description><content>&lt;p>Make the center footer wide..&lt;/p>
+&lt;p>Change the favicon&lt;/p>
+&lt;p>Change the logo text..&lt;/p>
+&lt;p>Update the about page..&lt;/p>
+&lt;p>Make a portfolio on the front page&lt;/p>
+&lt;p>Upload some photos&lt;/p></content></item></channel></rss>

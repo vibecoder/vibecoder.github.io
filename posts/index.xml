@@ -39,7 +39,4 @@ println! statement is a macro.</description><content>&lt;p>First of all, rust is
 &lt;p>Decided to skip the guessing_game.&lt;/p>
 &lt;p>I do not understand match and options and enums yet.&lt;/p>
 &lt;p>What the fuck are those.&lt;/p>
-&lt;p>Decided to build a fizz buzz.. The loop keyword is like while loop.. But I am not sure how to write a for loop yet.&lt;/p></content></item><item><title/><link>https://vibecoder.dev/posts/home/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/home/</guid><description>Hi there My name is VibeCoder, this place I use to present my ideas.
-So, there you have it&amp;hellip; enjoy!</description><content>&lt;h1 id="hi-there">Hi there&lt;/h1>
-&lt;p>My name is VibeCoder, this place I use to present my ideas.&lt;/p>
-&lt;p>So, there you have it&amp;hellip; enjoy!&lt;/p></content></item></channel></rss>
+&lt;p>Decided to build a fizz buzz.. The loop keyword is like while loop.. But I am not sure how to write a for loop yet.&lt;/p></content></item></channel></rss>
