@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>My journey of switching code editors</title><link>https://vibecoder.dev/posts/shifting-to-nvim/</link><pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/shifting-to-nvim/</guid><description>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://vibecoder.dev/page/about/</link><pubDate>Sat, 17 Mar 2018 18:16:11 +0530</pubDate><guid>https://vibecoder.dev/page/about/</guid><description>Hi, I am Vigo (Vibhas Goyal).
+I am currently studying at IIT Hyderabad, B.Tech in Engineering Science and Computer Science ( 2014 - 2018 ).
+This is the about page and for me, this page can be considered as one of the most difficult page to write because it involves writing about my objective self.
+Thus I would begin my introduction with some of the facts related to me.
+I wish to become an entrepreneur and start my own profitable and scalable business.</description><content>&lt;p>Hi, I am Vigo (Vibhas Goyal).&lt;/p>
+&lt;p>I am currently studying at IIT Hyderabad, B.Tech in Engineering Science and Computer Science ( 2014 - 2018 ).&lt;/p>
+&lt;p>This is the about page and for me, this page can be considered as one of the most difficult page to write because it involves writing about my objective self.&lt;/p>
+&lt;p>Thus I would begin my introduction with some of the facts related to me.&lt;/p>
+&lt;p>I wish to become an entrepreneur and start my own profitable and scalable business. I am a harcore capitalist and read a lot of capitalist content. Something that comes naturally to me as a Baniya who are especially known for their knack of entrepreneurship in Indian Community.&lt;/p>
+&lt;p>I like to read a lot. I shamelessly accept that I consume a lot of content both online and offline. I love reading books. I love watching interviews. I like listening to podcasts and good music. Thus I really consume a lot of information. I know for a fact that I consume a lot of content than what I produce. (Which in many ways is a good problem to have, all thanks to the Information Age in which we live.)&lt;/p>
+&lt;p>I like to code. I am interested in contributing to the fields of Software Development, Blockchain and Distributed Computing. I am highly interested in Technology ( Old as well as Upcoming ), whether Gadgets, Softwares, Games and Business Applications. I love the fact that Technology has enabled us to create great leverages that can be used to improvise our effeciency, productivity and quality of life in general.&lt;/p>
+&lt;p>Also I am quite introverted. I love talking to people that I have made acquintance with, but many times I prefer to be alone thinking about my activities, thoughts, reading, coding or simply being in the flow of a single minded activity.&lt;/p>
+&lt;p>And finally I like to write. I like to express my opinions that I consider to be true and important in writing which I prefer over speaking because it allows me to edit my thoughts and look at it objectively and then improvise upon it to remove any misunderstanding that it may cause. Also thoughts written in writing have often guided me in making better decisions in the past and serves as a great collection of ideas and viewpoints.&lt;/p>
+&lt;p>I truly hope that you may get some practical information from this website that help you and that is my mission regarding this website.&lt;/p></content></item><item><title>Contact</title><link>https://vibecoder.dev/page/contact/</link><pubDate>Sat, 17 Mar 2018 20:24:41 +0530</pubDate><guid>https://vibecoder.dev/page/contact/</guid><description>Please contact me at vibhas777@gmail.com</description><content>&lt;p>Please contact me at &lt;a href="mailto:vibhas777@gmail.com">vibhas777@gmail.com&lt;/a>&lt;/p></content></item><item><title>Resume</title><link>https://vibecoder.dev/page/resume/</link><pubDate>Sat, 17 Mar 2018 20:25:03 +0530</pubDate><guid>https://vibecoder.dev/page/resume/</guid><description>Please download my resume from here :
+Resume</description><content>&lt;p>Please download my resume from here :&lt;/p>
+&lt;p>&lt;a href="http://vibhasgoyal.com/resume.pdf">Resume&lt;/a>&lt;/p></content></item><item><title>My journey of switching code editors</title><link>https://vibecoder.dev/posts/shifting-to-nvim/</link><pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/shifting-to-nvim/</guid><description>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.
 I was casually browsing Twitch, bored out of my mind looking for something fun.
 I for a random reason decided to search for &amp;ldquo;Software&amp;rdquo; and I saw the primeagen streaming..
 A goofball coder with Dr Disrespect asthetics. But also works at Netflix and has a solid knowledge of what he is doing with the code.</description><content>&lt;p>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.&lt;/p>
@@ -42,7 +57,401 @@ println! statement is a macro.</description><content>&lt;p>First of all, rust is
 &lt;p>Decided to build a fizz buzz.. The loop keyword is like while loop.. But I am not sure how to write a for loop yet.&lt;/p></content></item><item><title>About</title><link>https://vibecoder.dev/about/</link><pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/about/</guid><description>Hi there My name is VibeCoder, this place I use to present my ideas.
 So, there you have it&amp;hellip; enjoy!</description><content>&lt;h1 id="hi-there">Hi there&lt;/h1>
 &lt;p>My name is VibeCoder, this place I use to present my ideas.&lt;/p>
-&lt;p>So, there you have it&amp;hellip; enjoy!&lt;/p></content></item><item><title/><link>https://vibecoder.dev/todo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/todo/</guid><description>Make the center footer wide..
+&lt;p>So, there you have it&amp;hellip; enjoy!&lt;/p></content></item><item><title>Notes on Communication</title><link>https://vibecoder.dev/posts/notes-on-communication/</link><pubDate>Mon, 02 Apr 2018 19:26:25 +0530</pubDate><guid>https://vibecoder.dev/posts/notes-on-communication/</guid><description>&lt;p>As I was watching Ajay Banga&amp;rsquo;s interview and Ayn Rand&amp;rsquo;s interview today (videos embedded at the end of article), I realized something that should be considered very important :&lt;/p>
+&lt;p>They were very good at expressing their views and opinions. They were good at communicating effectively. They were communicating as effectively as they could to avoid any misunderstanding.&lt;/p></description><content>&lt;p>As I was watching Ajay Banga&amp;rsquo;s interview and Ayn Rand&amp;rsquo;s interview today (videos embedded at the end of article), I realized something that should be considered very important :&lt;/p>
+&lt;p>They were very good at expressing their views and opinions. They were good at communicating effectively. They were communicating as effectively as they could to avoid any misunderstanding.&lt;/p>
+&lt;p>Also their thoughts were composed and very rigourously thought through.&lt;/p>
+&lt;p>And they were able to maintain this composure while understanding that some of the questions that were asked to them could be considered as offensive but they did not see it as threat.&lt;/p>
+&lt;p>I noted a similar maintainance of compsure by Steve Jobs in one of the WWDC conferences held after he joined back at Apple. The question was certainly considered as offensive to Steve by the audience, but he did not consider this as much as offensive. He was clearly not afraid of the reality of that question which highlighted his faults.&lt;/p>
+&lt;p>Similarly, I also noted this with another one of my favourite philosoplical lecturer, Jordan B. Peterson. Many people ask him questions that I would consider offensive ( rather most people would ) but he handles them with proper care. He also agrees that sometimes facing the truth right out thrown at you can be considered a good thing. ( However negative it&amp;rsquo;s consequences could be ) because then you have a chance to reflect on those question and improvise on your decisions.&lt;/p>
+&lt;p>I also noticed that they kept informal talk to a low level. Because they were highly aware of the public or the audience, they knew that people don&amp;rsquo;t like truth abut harsh realities being thrown at them without any warning. And formal talk with proper grammar and structure is thus the best method to communicate objective facts properly.&lt;/p>
+&lt;p>This form of communication is also seperate from bashing which is often done by Elon Musk and Donald Trump. In many scenarios, bashing or making mockery out of the controversial topic may be considered given that the other person is constantly irritating, but it does not add much objective value to the listener other than some humour. Maintaining composure while taking controversial questions by design adds value to the listener.&lt;/p>
+&lt;p>From my personal experience, It has happened to me many times that I won&amp;rsquo;t be able to express myself such that it would not cause any misunderstanding. Thus it is certainly an area where I can improve upon if I wish to become a better entrepreneur.&lt;/p>
+&lt;p>Being able to communicate with effective composure can thus be considered one of the most common traits that I seem to like the most in these interviews.&lt;/p>
+&lt;p>It&amp;rsquo;s certainly not just what you say but how you say it that matters.&lt;/p>
+&lt;h3 id="referenced-videos">Referenced Videos&lt;/h3>
+&lt;p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/9-tjY-DG5-0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+ 
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/1ooKsv_SX4Y" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+ &lt;/p>
+&lt;!-- raw HTML omitted --></content></item><item><title>Steve Blank's Podcast Interview</title><link>https://vibecoder.dev/posts/steve-blank/</link><pubDate>Sun, 01 Apr 2018 16:46:01 +0530</pubDate><guid>https://vibecoder.dev/posts/steve-blank/</guid><description>&lt;p>Interesting Podcasts by Steve Blank. Please listen if you are interested to learn about Entrepreneurship.&lt;/p>
+&lt;!-- raw HTML omitted --></description><content>&lt;p>Interesting Podcasts by Steve Blank. Please listen if you are interested to learn about Entrepreneurship.&lt;/p>
+&lt;!-- raw HTML omitted --></content></item><item><title>Speed vs Velocity : My Personal Experience</title><link>https://vibecoder.dev/posts/speed-velocity-experience/</link><pubDate>Sun, 25 Mar 2018 16:20:28 +0530</pubDate><guid>https://vibecoder.dev/posts/speed-velocity-experience/</guid><description>Hi, I recently read an article by Shane Parrish of the Farnam Street Blog that mentioned the importance of choosing velocity over speed.
+This post actually was a nice idea and I really felt that something more could be learnt from it.
+I would highly recommend you to read the article linked below
+[Speed vs Velocity] (https://www.fs.blog/2018/03/speed-velocity/)
+I have had my own share of personal experience with this analysis of focus and would like to share it.</description><content>&lt;p>Hi, I recently read an article by Shane Parrish of the Farnam Street Blog that mentioned the importance of choosing velocity over speed.&lt;/p>
+&lt;p>This post actually was a nice idea and I really felt that something more could be learnt from it.&lt;/p>
+&lt;p>I would highly recommend you to read the article linked below&lt;/p>
+&lt;p>&lt;strong>[Speed vs Velocity] (&lt;a href="https://www.fs.blog/2018/03/speed-velocity/">https://www.fs.blog/2018/03/speed-velocity/&lt;/a>)&lt;/strong>&lt;/p>
+&lt;p>I have had my own share of personal experience with this analysis of focus and would like to share it.&lt;/p>
+&lt;p>I am actually someone who is highly obsessed with increasing my efficiency / productivity.&lt;/p>
+&lt;p>But efficiency can also achieved by doing things in a particular direction rather than trying to do tasks faster.&lt;/p>
+&lt;p>Think about this: &lt;em>&lt;strong>An incremental increase in speed can only be considered useful if it is in a direction that you would like to go.&lt;/strong>&lt;/em>&lt;/p>
+&lt;p>If all the directions are random then what would end up with is zero displacement even if speed of completing tasks was increased.&lt;/p>
+&lt;p>As a programmer in college, I have various options ahead of me. Even in CSE, there are large number of fields that one can specialise in such as&lt;/p>
+&lt;ul>
+&lt;li>Distributed Computing&lt;/li>
+&lt;li>Blockchain&lt;/li>
+&lt;li>Web Development&lt;/li>
+&lt;li>Deep Learning / Machine learning&lt;/li>
+&lt;li>Compiler engineering&lt;/li>
+&lt;li>Operating systems&lt;/li>
+&lt;/ul>
+&lt;p>And many such.. It is important to know which fields to choose and be true to it. For me personally, I was initially interested to learn about Machine Learning and did a basic course in it, but after some time I realized that the effort I was putting in learning it was not really focused academically and my grades started to fluctuate as I began to divert from my main hobby / focus within the CSE department. ( Grades can be considered an objective measure in my opinion )&lt;/p>
+&lt;p>And many times, this selection comes by eliminating the things that you would not like to do or the things that you&lt;/p>
+&lt;p>[Patrick Bet-David] ( //patrickbetdavid.com ) ( my personal hero ) as often said that successful people / businesses always specialise rather than generalise. The generalised behaviour always come later.&lt;/p>
+&lt;h3 id="how-to-acheive-higher-velocity">How To Acheive Higher Velocity&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Choose your direction&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Learn to say no&lt;/strong> : to things that are not aligned with your direction.&lt;/li>
+&lt;li>&lt;strong>Create a systematic approach to saying no&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>Thus from now on, I would like to consider this factor while taking any decision worth undertaking and I would like to take it as a challenge for myself to see what can be achieved by doing so.&lt;/p>
+&lt;p>To requoute from the article :&lt;/p>
+&lt;blockquote>
+&lt;p>“People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying ‘no’ to 1,000 things.”&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>/- Steve Jobs&lt;/p>
+&lt;/blockquote>
+&lt;p>Peace :smile:&lt;/p></content></item><item><title>Favourite Content</title><link>https://vibecoder.dev/page/fav-content/</link><pubDate>Mon, 19 Mar 2018 17:17:05 +0530</pubDate><guid>https://vibecoder.dev/page/fav-content/</guid><description>This page is a collection of all my favourite content creators from other websites which I wish to bookmark here.
+I also regularly tweet about the content that I consume online and that I believe would help others under the hastag #TwitterBookmarking.
+In a way this is my personal awesome list of internet content creators ( List not in any order of preference).
+Philosophy / Psychology Jordan B Peterson &amp;amp; website The Rational Male Illimitable Men Farnam Street Blog Ed Latimore Illacertus YT Channel TED-Ed FightMediocrity Entrepreneurship Valutainment &amp;amp; Patrick Bet David [Gary Vee] WallStreetPlayboys Budgets are sexy Stanford Graduate School of Business Technology MKBHD Linus Tech Tips Health Athlean-X Youtube Channel [Alexander Juan Cortes] PictureFit ASAPScience</description><content>&lt;p>This page is a collection of all my favourite content creators from other websites which I wish to bookmark here.&lt;/p>
+&lt;p>I also regularly tweet about the content that I consume online and that I believe would help others under the hastag #TwitterBookmarking.&lt;/p>
+&lt;p>In a way this is my personal awesome list of internet content creators ( List not in any order of preference).&lt;/p>
+&lt;h2 id="philosophy--psychology">Philosophy / Psychology&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q">Jordan B Peterson&lt;/a> &amp;amp; &lt;a href="//jordanbpeterson.com">website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="//therationalmale.com">The Rational Male&lt;/a>&lt;/li>
+&lt;li>&lt;a href="//illimitable.men">Illimitable Men&lt;/a>&lt;/li>
+&lt;li>&lt;a href="//fs.blog">Farnam Street Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://edlatimore.com/">Ed Latimore&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCmvhCWvHk3-SJqljh5cCm8A">Illacertus YT Channel&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA">TED-Ed&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCXLesGEfmyhxqOjoAqhRwhA">FightMediocrity&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="entrepreneurship">Entrepreneurship&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.youtube.com/user/patrickbetdavid">Valutainment&lt;/a> &amp;amp; &lt;a href="//patrickbetdavid.com">Patrick Bet David&lt;/a>&lt;/li>
+&lt;li>[Gary Vee]&lt;/li>
+&lt;li>WallStreetPlayboys&lt;/li>
+&lt;li>Budgets are sexy&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCGwuxdEeCf0TIA2RbPOj-8g">Stanford Graduate School of Business&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h2 id="technology">Technology&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ">MKBHD&lt;/a>&lt;/li>
+&lt;li>Linus Tech Tips&lt;/li>
+&lt;/ol>
+&lt;h2 id="health">Health&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCe0TLA0EsQbE-MjuHXevj2A">Athlean-X Youtube Channel&lt;/a>&lt;/li>
+&lt;li>[Alexander Juan Cortes]&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCadiU6WTKl65HUwEih1XLYg">PictureFit&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA">ASAPScience&lt;/a>&lt;/li>
+&lt;/ol></content></item><item><title>My Twitter Profile</title><link>https://vibecoder.dev/page/twitter-feed/</link><pubDate>Mon, 19 Mar 2018 17:17:05 +0530</pubDate><guid>https://vibecoder.dev/page/twitter-feed/</guid><description>Tweets by TwitterDev</description><content>&lt;p>&lt;!-- raw HTML omitted -->Tweets by TwitterDev&lt;!-- raw HTML omitted --> &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->&lt;/p></content></item><item><title>Week 1: Principles by Ray Dalio</title><link>https://vibecoder.dev/books-club/week-1-principles/</link><pubDate>Mon, 19 Mar 2018 16:26:11 +0530</pubDate><guid>https://vibecoder.dev/books-club/week-1-principles/</guid><description>This book is a collection of principles.
+Ray Dalio is an amazing guy. A billionaire investor.
+this book is a must read.</description><content>&lt;p>This book is a collection of principles.&lt;/p>
+&lt;p>Ray Dalio is an amazing guy. A billionaire investor.&lt;/p>
+&lt;p>this book is a must read.&lt;/p></content></item><item><title>The Hardest Thing Ever</title><link>https://vibecoder.dev/posts/the-hardest-thing-ever/</link><pubDate>Sat, 17 Mar 2018 20:22:39 +0530</pubDate><guid>https://vibecoder.dev/posts/the-hardest-thing-ever/</guid><description>The hardest thing ever is to never forget your why.
+the harder thing is to not get distracted.
+Why are you doing what you doing? And for what , for whom.
+This is hard. Other noises of your environment will make you move away from that.
+Because they don&amp;rsquo;t care for your why.
+There is nothing that they will gain from it.
+Cheers :smiley:</description><content>&lt;p>The hardest thing ever is to never forget your why.&lt;/p>
+&lt;p>the harder thing is to not get distracted.&lt;/p>
+&lt;p>Why are you doing what you doing? And for what , for whom.&lt;/p>
+&lt;p>This is hard. Other noises of your environment will make you move away from that.&lt;/p>
+&lt;p>Because they don&amp;rsquo;t care for your why.&lt;/p>
+&lt;p>There is nothing that they will gain from it.&lt;/p>
+&lt;p>Cheers :smiley:&lt;/p></content></item><item><title>Doing Things That Matter</title><link>https://vibecoder.dev/posts/doing-things-that-matter/</link><pubDate>Sat, 17 Mar 2018 18:14:30 +0530</pubDate><guid>https://vibecoder.dev/posts/doing-things-that-matter/</guid><description>All of us are given approximately the same time.
+Then why do some people tend to deliver better results than others?
+Simply because they do things that matter the most to them and ignore the rest.
+Not everything in life matters equally.
+Not every decision matters equally.
+To-do list is often a lie. Some tasks are more important than others.</description><content>&lt;p>All of us are given approximately the same time.&lt;/p>
+&lt;p>Then why do some people tend to deliver better results than others?&lt;/p>
+&lt;p>Simply because they do things that matter the most to them and ignore the rest.&lt;/p>
+&lt;p>Not everything in life matters equally.&lt;/p>
+&lt;p>Not every decision matters equally.&lt;/p>
+&lt;p>To-do list is often a lie. Some tasks &lt;!-- raw HTML omitted -->are &lt;!-- raw HTML omitted -->more important than others.&lt;/p></content></item><item><title>Focus: X divided by infinity is zero</title><link>https://vibecoder.dev/posts/focus/</link><pubDate>Sat, 17 Mar 2018 18:10:29 +0530</pubDate><guid>https://vibecoder.dev/posts/focus/</guid><description>A small and relatively simple concept that I have learned over the last 2 years is this.
+Effort or time divided into many different , unrelated areas of focus would result in a very small output where as concentrated efforts would lead to more and more output.
+If a person, puts his effort into many unrelated fields, it leads to a constant state of unhappiness and confusion.
+If a business sells many different varieties of products, it might find difficulty in selling their products under the same brand.</description><content>&lt;p>A small and relatively simple concept that I have learned over the last 2 years is this.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>Effort or time divided into many different , unrelated areas of focus would result in a very small output where as concentrated efforts would lead to more and more output.&lt;/p>
+&lt;p>If a person, puts his effort into many unrelated fields, it leads to a constant state of unhappiness and confusion.&lt;/p>
+&lt;p>If a business sells many different varieties of products, it might find difficulty in selling their products under the same brand.&lt;/p>
+&lt;p>Similarly, if a person consumes various kind of news simultaneously, it leads to zero output or newer forms of understanding.&lt;/p>
+&lt;p>This is the exact reason why I believe that newspaper and social media overall are of net zero value to the reader if he decides to read all of it.&lt;/p>
+&lt;p>Too much information could cause confusion?&lt;/p>
+&lt;p>Learning to extract the kind of information you need is your responsibility.&lt;/p>
+&lt;p>If you do not decide to choose your own information stream, do expect others to decide it for you ( some kind of silly mainstream media or news ). And it might not be good for you.&lt;/p>
+&lt;p>Too much information spread over various topics = Zero value.&lt;/p>
+&lt;p>Deciding on what you want to do is important for the same.&lt;/p></content></item><item><title>Case Studies with the Biz Doc, Mr. Thomas Ellsworth</title><link>https://vibecoder.dev/posts/case-studies-tom-ellsworth/</link><pubDate>Fri, 04 Aug 2017 13:39:02 +0530</pubDate><guid>https://vibecoder.dev/posts/case-studies-tom-ellsworth/</guid><description>Mr. Thomas Ellsworth is awesome.
+I love the content that he produces and I eagerly wait every Friday for him to upload his videos on my favourite YouTube channel Valuetainment.
+The lessons that one can get from his case studies are extremely helpful.
+The whole of Valuetainment is a gold mine for any entrepreneur and would recommend anyone to watch some of their content even if they are not an entrepreneur.</description><content>&lt;p>Mr. Thomas Ellsworth is awesome.&lt;/p>
+&lt;p>I love the content that he produces and I eagerly wait every Friday for him to upload his videos on my favourite YouTube channel Valuetainment.&lt;/p>
+&lt;p>The lessons that one can get from his case studies are extremely helpful.&lt;/p>
+&lt;p>The whole of Valuetainment is a gold mine for any entrepreneur and would recommend anyone to watch some of their content even if they are not an entrepreneur.&lt;/p>
+&lt;p>I feel privileged that I get to have such mentors give me awesome content for free via Internet and a lot of gratitude to them is due from my side.&lt;/p>
+&lt;p>So here it is to Mr. Patrick Bet David and Mr. Thomas Ellsworth for the time that you have dedicated to build this awesome YouTube channel.&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/LcjkFw4JndU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;p>See you soon. Peace \m/&lt;/p></content></item><item><title>Business Lesson: Employee Equity</title><link>https://vibecoder.dev/posts/employee-equity/</link><pubDate>Thu, 06 Jul 2017 10:28:34 +0530</pubDate><guid>https://vibecoder.dev/posts/employee-equity/</guid><description>Business Lesson : Pay equity to employees more than investor.
+First of all, I will start that I got to learn many things yesterday about equity.
+Investors are important. ( Maybe ) but they are not active in the business.
+Hence it makes more sense to pay equity to employees as a startup.
+Of-course both investors and employees and all the stakeholders ( shareholders ) must be vested.
+Vesting is an important contract.</description><content>&lt;p>Business Lesson : Pay equity to employees more than investor.&lt;/p>
+&lt;p>First of all, I will start that I got to learn many things yesterday about equity.&lt;/p>
+&lt;p>Investors are important. ( Maybe ) but they are not active in the business.&lt;/p>
+&lt;p>Hence it makes more sense to pay equity to employees as a startup.&lt;/p>
+&lt;p>Of-course both investors and employees and all the stakeholders ( shareholders ) must be vested.&lt;/p>
+&lt;p>Vesting is an important contract.&lt;/p>
+&lt;p>If it is there, then it means that the business partners and stakeholders trust each other.&lt;/p>
+&lt;p>It&amp;rsquo;s lack means that the individuals are not able to trust each other freely.&lt;/p>
+&lt;p>&amp;ndash;&lt;/p>
+&lt;p>Equity is for those who are actively working in an organization. Note the word &amp;ldquo;Active&amp;rdquo;.. Active investors, active advisors, active founders, active employees.&lt;/p>
+&lt;p>If the company stocks get into the hands of those who are idle. Then it acts as a hindrance to decision making.&lt;/p>
+&lt;p>Thus vesting ensures that equity is on the hands of those who are active.&lt;/p>
+&lt;p>See you soon. Peace :) \m/&lt;/p></content></item><item><title>Cost Leadership, Differentiation and Profit Models</title><link>https://vibecoder.dev/posts/cost-leadership-differentiation-profit-models/</link><pubDate>Sun, 02 Apr 2017 12:50:01 +0530</pubDate><guid>https://vibecoder.dev/posts/cost-leadership-differentiation-profit-models/</guid><description>So Today morning , All I had to do was attend class.
+This class was taught to us ( Minor in Entrepreneurship ) by Srini Addepalli ( Founder, GlobalGyan) I really enjoyed his teachings and found them to be very useful.
+Here I would like to share some of my notes with you.
+Cost Leadership : The company reduces the cost of the product while selling the product at the average price.</description><content>&lt;p>So Today morning , All I had to do was attend class.&lt;/p>
+&lt;p>This class was taught to us ( Minor in Entrepreneurship ) by &lt;!-- raw HTML omitted -->Srini Addepalli ( Founder, &lt;!-- raw HTML omitted -->GlobalGyan&lt;!-- raw HTML omitted --> )
+&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>I really enjoyed his teachings and found them to be very useful.&lt;/p>
+&lt;p>Here I would like to share some of my notes with you.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Cost Leadership : &lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>The company reduces the cost of the product while selling the product at the average price.&lt;/p>
+&lt;p>The companies can reduce their cost using&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Innovation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Volume&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>This allows them to gain a competitive edge over other companies.&lt;/p>
+&lt;p>Example : Indigo Airlines&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>In order to do this they create two kind of benefits :&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Law of Diminishing Marginal Utility ( Rasgulla Happiness Theorem )&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>Basically it says that the amount of happiness one gets after consuming a product does not improve much after a certain limit.&lt;/p>
+&lt;p>For Example :&lt;/p>
+&lt;p>-&amp;gt; If a person is given one rasgulla , he is happy&lt;/p>
+&lt;p>-&amp;gt; If he is given another rasgulla , he is happier&lt;/p>
+&lt;p>-&amp;gt; After third , he is full&lt;/p>
+&lt;p>-&amp;gt; After fourth , his happiness does not change much&lt;/p>
+&lt;p>-&amp;gt; After fifth, he is not able to eat any more..&lt;/p>
+&lt;p>Thus same is the case with innovation, after a certain limit the user happiness does not affect much with the increase in quality of a given feature.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Niche ( Cost Leadership and Differentiation )&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>To enter the market , companies can focus on small niche of users.&lt;/p>
+&lt;p>Such as a equipment specifically for surgeons. The differentiated companies won&amp;rsquo;t enter such a market as they would lose their prime customers there and thus is a winning strategy.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;ol start="3">
+&lt;li>
+&lt;p>Technology Creators&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Network Orchestrators&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>The way these businesses can make more profits is considerably different and require different strategies.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Asset Builders&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>These companies use Capital to produce Capability.&lt;/p>
+&lt;p>These companies include Airlines , Hotels , Transport , Real Estate etc.&lt;/p>
+&lt;p>What these companies do is basically collect assets in exchange of capital to produce revenue.&lt;/p>
+&lt;p>The revenue here is usually calculated in terms of &lt;!-- raw HTML omitted -->Unit / Volume&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->In order to produce more profit asset builders must focus on Capability Utilization ( ie. Asset Utilization )&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Service Providers&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>These companies use Human Resources to provide Services&lt;/p>
+&lt;p>Example : IT Industry , Freelancers , Musicians , Doctors , Lawyers etc.&lt;/p>
+&lt;p>The revenue here is calculated in terms of &lt;!-- raw HTML omitted -->Unit / Time&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->In order to produce more profit service providers must focus on Productivity&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->-&amp;gt; Talent Management ( Training etc. )&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->-&amp;gt; Automation&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Technology Creators&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>These companies use technology as a leverage to sell Intellectual Property.&lt;/p>
+&lt;p>The main selling point of these companies is the uniqueness of the product.&lt;/p>
+&lt;p>Examples include Books , Courses , Music Albums , Films etc.&lt;/p>
+&lt;p>The revenue here is usually calculated in terms of &lt;!-- raw HTML omitted -->Unit / Features &lt;!-- raw HTML omitted -->or &lt;!-- raw HTML omitted -->Unit / Uniqueness &lt;!-- raw HTML omitted -->or &lt;!-- raw HTML omitted -->Unit / Product ( Book , Course , Album etc. )&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->In order to produce more profit technology creators must focus on increasing the value of their product.&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>&lt;!-- raw HTML omitted -->Network Orchestrators&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>These companies rely on existing asset builders and consumers.&lt;/p>
+&lt;p>They enable the asset builders to reach more asset utilization and also the consumer to reach the producer more easily.&lt;/p>
+&lt;p>Thus they act as Marketplace for transactions to take place.&lt;/p>
+&lt;p>For Example : Uber , eBay , Ola , AirBNB , Play Store&lt;/p>
+&lt;p>The revenue here is calculated in terms of &lt;!-- raw HTML omitted -->Percentage Fee&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->In order to produce more profit these companies must &amp;ldquo;Reduce Friction&amp;rdquo; in the marketplace&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->-&amp;gt; Use Ratings for sellers&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->-&amp;gt; Targeting&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>I hope that you learned something of value from this post. Please leave a feedback if you like it.&lt;/p>
+&lt;p>Cheers :)&lt;/p></content></item><item><title>A Business is like a Farm : The Farm Analogy</title><link>https://vibecoder.dev/posts/a-business-is-like-a-farm-analogy/</link><pubDate>Sat, 21 Jan 2017 21:39:52 +0530</pubDate><guid>https://vibecoder.dev/posts/a-business-is-like-a-farm-analogy/</guid><description>A business is just like a farm.
+Infact farming is a business that is easy for most people to understand.
+You have to take care of it everyday.
+You have to do the hustle and reach out to your customers.
+You need land for your farm ( Initial Investments )
+You hire employees to take care of your farm.
+You have to regularly water it.
+You have to take out the weeds.</description><content>&lt;p>A business is just like a farm.&lt;/p>
+&lt;p>Infact farming is a business that is easy for most people to understand.&lt;/p>
+&lt;p>You have to take care of it everyday.&lt;/p>
+&lt;p>You have to do the hustle and reach out to your customers.&lt;/p>
+&lt;p>You need land for your farm ( Initial Investments )&lt;/p>
+&lt;p>You hire employees to take care of your farm.&lt;/p>
+&lt;p>You have to regularly water it.&lt;/p>
+&lt;p>You have to take out the weeds.&lt;/p>
+&lt;p>You need to know the market demands.&lt;/p>
+&lt;p>You need to know when it is time to harvest your farm.&lt;/p>
+&lt;p>You celebrate a good harvest like a festival.&lt;/p>
+&lt;p>You need to be prepared for emergencies too.&lt;/p>
+&lt;p>You will sometimes have to bootstrap your own resources and learn to manage your expenses.&lt;/p>
+&lt;p>You also do side hustle that helps you in farming ( poultry )&lt;/p>
+&lt;p>You must also be aware of your competition.&lt;/p>
+&lt;p>You must learn to maintain supplies and cash flow.&lt;/p>
+&lt;p>Working on your own farm will result in more income than working in other&amp;rsquo;s farm.&lt;/p>
+&lt;p>You must learn to keep valuable employees employed to your farm.&lt;/p>
+&lt;p>You must invest in the latest technology to stay ahead.&lt;/p>
+&lt;p>You may live near your farm to have a better watch over it.&lt;/p>
+&lt;p>You must buy pesticides, high yielding seeds, machinery for a better produce.&lt;/p>
+&lt;p>You must also know when to buy these things, for early high investment may lead to lots of debt.&lt;/p>
+&lt;p>You will have to protect it from wild animals ( the crazy customers ) and learn to deal with them.&lt;/p>
+&lt;p>For more profits, you must learn to create a brand for your farm.&lt;/p>
+&lt;p>You can market it like &amp;ldquo;Organic Produce&amp;rdquo; when you are not able to afford pesticides.&lt;/p>
+&lt;p>Simple marketing strategies like the above would come more naturally to you when you are aware of the marketplace.&lt;/p>
+&lt;p>At some point, you must start acquiring other farms.&lt;/p>
+&lt;p>Building value to your customer takes time and effort.&lt;/p>
+&lt;p>The crops won&amp;rsquo;t grow in a day, no matter how much effort you put into it.&lt;/p>
+&lt;p>You must become comfortable with uncertainties in your harvest.&lt;/p>
+&lt;p>You should be educated enough about your farm to know where to grow what seed and how to grow it.&lt;/p>
+&lt;p>If not experienced, you must not be afraid to seek help or information from other farmers.&lt;/p>
+&lt;p>If you do finally achieve success, you might help other farmers to achieve it too.&lt;/p></content></item><item><title>The Great Branch of Engineering Science at IITH</title><link>https://vibecoder.dev/posts/engineering-science/</link><pubDate>Thu, 16 Jun 2016 20:12:22 +0530</pubDate><guid>https://vibecoder.dev/posts/engineering-science/</guid><description>Hi, I am Vibhas, studying Engineering Science at IITH ( 2014 batch ). So let me introduce you to our branch.
+( I am writing this down here as some of the content on official website has not been updated yet )
+No other IIT has it like ours.
+Although I am not going to declare it the best branch ever. But it&amp;rsquo;s quite close to that.
+B.Tech. in Engineering Science, at IIT Hyderabad,is a unique program offered in India for the first time.</description><content>&lt;p>Hi, I am Vibhas, studying Engineering Science at IITH ( 2014 batch ). So let me introduce you to our branch.&lt;/p>
+&lt;p>( I am writing this down here as some of the content on official website has not been updated yet )&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>No other IIT has it like ours.&lt;/p>
+&lt;p>Although I am not going to declare it the best branch ever. But it&amp;rsquo;s quite close to that.&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->B.Tech. in Engineering Science, at IIT Hyderabad,&lt;!-- raw HTML omitted --> is a unique program offered in India for the first time.&lt;/p>
+&lt;p>It completely opens the doors to different specializations and provides a holistic engineering education.&lt;/p>
+&lt;p>The basic structure is as follows:&lt;/p>
+&lt;p>For the first 2 years (4 semesters) the student does basic courses in Mathematics, Physics, Chemistry, and different fields of engineering.&lt;/p>
+&lt;p>In the last 2 years (4 semesters) the student can then choose any of the given specializations :&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>The students of above program will have a degree of : B.Tech in Engineering Science ( 4 Years )&lt;/p>
+&lt;p>The above program is available to all students of ES regardless of the cap in their desired specialization.&lt;/p>
+&lt;p>This is the first program that caters to what is often referred to as the &amp;ldquo;T Education&amp;rdquo;. The horizontal line in &amp;lsquo;T&amp;rsquo; corresponds to an education giving breadth, while the vertical line in &amp;lsquo;T&amp;rsquo; corresponds to an education giving depth. The new Engineering Science Program achieves breadth as well as depth.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>So the cap in a specialization is 25%.&lt;/p>
+&lt;p>Yes it is not 20% but 25% as I clarified about it from the faculty. ( official website has mentioned it wrong and I have asked the faculty to update it )&lt;/p>
+&lt;p>It means that out of the 25 seats in ES, no more than 6 students can move into a given branch / specialization ( mainly for CS and EE ) .&lt;/p>
+&lt;p>This was done to prevent &amp;ldquo;backdoor entry&amp;rdquo; of students. Whatever the hell that means.&lt;/p>
+&lt;p>In short it is there to prevent misuse of the branch to gain entry to just CS and ditch your efforts to explore other branch.&lt;/p>
+&lt;p>Of-course I am against this cap as in someways it destroys the purpose of our branch.&lt;/p>
+&lt;p>As of the 2014 batch :&lt;/p>
+&lt;p>6 Students went for CS Specialization&lt;/p>
+&lt;p>6 Students went for EE specialization&lt;/p>
+&lt;p>1 Student went for Mech specialization&lt;/p>
+&lt;p>1 Student went for Civil specialization&lt;/p>
+&lt;p>and 10 students chose ES 4 years.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>You will then be awarded with a 4 Year degree of ES.&lt;/p>
+&lt;p>It has a very good curriculum and allows you to take many free-electives.&lt;/p>
+&lt;p>More the number of free-electives you have in a curriculum, higher is your choice of field.&lt;/p>
+&lt;p>ES 4 year has the most number of free-electives ( almost every course is a free-elective ), essentially making it less &amp;ldquo;riskier&amp;rdquo; to go for a 4 years degree as you will still end up in studying subjects that you like.&lt;/p>
+&lt;p>I have attached the &lt;!-- raw HTML omitted -->es_4year_curriculum&lt;!-- raw HTML omitted --> here.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>An IITian is way ahead of it&amp;rsquo;s peers when it comes to Campus placements and internship opportunities.&lt;/p>
+&lt;p>ES because of it&amp;rsquo;s unique structure fits a highly desirable description for various job requirements.&lt;/p>
+&lt;p>I will also openly admit that CS has the best placements.&lt;/p>
+&lt;p>It&amp;rsquo;s the trend in job placements. Rest of the branches simply have to deal with it. If you are looking to get placed. Blindfoldedly go for a CS branch or a branch closely linked to it.&lt;/p>
+&lt;p>Other branches have better opportunities after a post-graduate degree.&lt;/p>
+&lt;p>In terms of just placements at IITH the order that is clearly observed is&lt;/p>
+&lt;p>CS &amp;gt; ES &amp;gt; EE &amp;gt; Mech &amp;gt; Civil / Chemical&lt;/p>
+&lt;p>Also I am not counting EP and MSME because they have not held a placement season yet.&lt;/p>
+&lt;p>The reason for such a trend might be the career market itself. Just look at the evolving technology around you.&lt;/p>
+&lt;p>Also to note is that most of the placements that take place are usually in non-core jobs.&lt;/p>
+&lt;p>Meaning they don&amp;rsquo;t hire you because of your degree, rather the companies will hire you for your skills.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>So suppose you are into Coding, Marketing, Graphic Designing, Web Development or any other income generating skill, you will be way better off in placements than a guy with just a good degree to his name.&lt;!-- raw HTML omitted -->
+The one reason ES guys get well placed than other branches is because of their skills. Whether it be Coding , Marketing or Designing.&lt;/p>
+&lt;p>I am not against a core job in other degrees like Mechanical , Electrical but they are &amp;ldquo;rare&amp;rdquo; to begin with, as there is less demand for fresh recruits in these jobs.&lt;/p>
+&lt;p>If you have a specific passion towards a branch ==&amp;gt; GO FOR IT&lt;/p>
+&lt;p>Personally I just wanted to choose a career where there were good placements, thus I chose ES. Also IITH has a very good placement record. And because of Hyderabad, which is also a startup destination and a hub for great jobs ( Google , Amazon , Flipkart ), it became quite a better choice over CS in other cities like Ropar, Guwahati or BHU.&lt;/p>
+&lt;p>Also internships are abundantly available to an IITian in Hyderabad. Companies like Google, Amazon often take interns from IITH.&lt;/p>
+&lt;p>The highest offcampus placement till now of ES branch has been of Rs. 1.2 Crore when the first placement season of ES took place this year.&lt;/p>
+&lt;p>With more skilled and ambitious people coming to IITH, we hope the record is broken soon.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>ES people are the most passionate people in the college with their work. And are into many, many roles apart from a okayish academics.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>Just have a look at where all the college activities are going! Our current 2014 batch has Head of Alumni Affairs ( KrishnaKant ),  Head of Sunshine ( Radhika ) , Head of E-Cell ( Me ) , 2 Managers of nvision ( Niranjan , Mudit ) , Alumni Secretary ( Safwan ) , E-Cell Manager ( Aditya ) , Members of TEDx Club ( Vipul, Vishal ) , Head of EML Club ( Rohan ) and the list goes on and on!&lt;/p>
+&lt;p>ES students have the most fun among all other branches. ES people are the most exciting and happening people in the campus. After all we get to sit with every branch and who knows it better than ES people :D&lt;/p>
+&lt;p>Most ES students have an entrepreneurial spirit in them! I believe it is because of the inherent tendency in them to take a calculated risk for a greater reward :)&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>Like me, students of Engineering Science are often very excited to write about it. Here are some of the important links that you might visit:&lt;/p>
+&lt;p>ES Website : &lt;!-- raw HTML omitted -->&lt;a href="http://es.iith.ac.in">http://es.iith.ac.in&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>Quora : &lt;!-- raw HTML omitted -->&lt;a href="https://www.quora.com/How-is-the-Engineering-Science-course-at-IIT-Hyderabad-1">https://www.quora.com/How-is-the-Engineering-Science-course-at-IIT-Hyderabad-1&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>ES is a well-recognized international branch and thus in my opinion most of the students won&amp;rsquo;t face any problems when applying for a post-graduation degree in a foreign university regardless of their specializations.&lt;/p>
+&lt;p>&amp;ndash; &lt;!-- raw HTML omitted -->University of Toronto&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->&lt;a href="http://engsci.utoronto.ca/explore_our_program/about_engsci/">http://engsci.utoronto.ca/explore_our_program/about_engsci/&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&amp;ndash; &lt;!-- raw HTML omitted -->University of Auckland&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->&lt;a href="http://www.des.auckland.ac.nz/en.html">http://www.des.auckland.ac.nz/en.html&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&amp;ndash; &lt;!-- raw HTML omitted -->PennState College of Engineering&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->&lt;a href="https://www.esm.psu.edu/about/whatisesci/">https://www.esm.psu.edu/about/whatisesci/&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&amp;ndash; &lt;!-- raw HTML omitted -->University of Oxford&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->&lt;a href="http://www.eng.ox.ac.uk/">http://www.eng.ox.ac.uk/&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&amp;ndash; &lt;!-- raw HTML omitted -->Berkely Engineering&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->&lt;a href="http://engineering.berkeley.edu/academics/undergraduate-programs/engineering-science">http://engineering.berkeley.edu/academics/undergraduate-programs/engineering-science&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>Do visit the website for other official details that you might wish to know about ES.&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->Brochure of Engineering Science at IITH &lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>The brochure of ES is available to download at &lt;!-- raw HTML omitted -->&lt;a href="http://es.iith.ac.in/brochure.pdf">http://es.iith.ac.in/brochure.pdf&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->Contact Me&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>If you have any other doubts regarding this branch, feel free to contact me at &lt;a href="mailto:vibha777@gmail.com">vibha777@gmail.com&lt;/a> or you can whatsapp me at +919603740090.&lt;/p>
+&lt;p>( This article is still under draft and I will keep on updating this article to add more information )]&lt;/p></content></item><item><title>HungerTorrent : Food delivery system</title><link>https://vibecoder.dev/posts/hungertorrent/</link><pubDate>Sun, 13 Mar 2016 00:39:54 +0530</pubDate><guid>https://vibecoder.dev/posts/hungertorrent/</guid><description>We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got heavily paid for the delivery.
+We setup the website at hungertorrent.xyz ( Cheap Domain :P )
+We started the program, a day after we attended AugustFest
+Now the static website has been hosted at http://hungertorrent.</description><content>&lt;!-- raw HTML omitted -->
+&lt;p>We delivered food to IITH students and the food was delivered by the students of college itself who went to the city on their own. We then asked them to bring our orders from restaurants and in return they got &lt;em>heavily&lt;/em> paid for the delivery.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>We setup the website at hungertorrent.xyz ( Cheap Domain :P )&lt;/p>
+&lt;p>We started the program, a day after we attended AugustFest&lt;/p>
+&lt;p>Now the static website has been hosted at &lt;!-- raw HTML omitted -->&lt;a href="http://hungertorrent.bitballoon.com/">http://hungertorrent.bitballoon.com/&lt;/a>&lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>The team consisted of 5 people.&lt;/p>
+&lt;p>&lt;!-- raw HTML omitted -->Team : Vibhas Goyal, Aashish Patole, Aditya Rathi, Mudit Gupta, Safwan Mahmood &lt;!-- raw HTML omitted -->&lt;/p>
+&lt;p>For the first few days, we delivered food at an approx. delivery cost of Rs. 30/- per food item.&lt;/p>
+&lt;p>We took orders from Subway, Mughal and Dominos. The program was successful in 800 series of ODF Hostels. :P&lt;/p>
+&lt;p>And then the orders declined, excitement was over, our motivation went down, focus dissipated and soon it reached its end in Early December 2015.&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;p>We faced harsh reality and truths for which I really must congratulate the team. To those young people who solve, rather than whine about their problems.&lt;/p>
+&lt;p>Cheers for HungerTorrent. :boom: :punch:&lt;/p></content></item><item><title/><link>https://vibecoder.dev/todo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/todo/</guid><description>Make the center footer wide..
 Change the logo text..
 Update the about page..
 Make a portfolio on the front page
