@@ -1,4 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Learning rust</title><link>https://vibecoder.dev/posts/rust/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/rust/</guid><description>First of all, rust is totally new to me.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>My journey of switching code editors</title><link>https://vibecoder.dev/posts/shifting-to-nvim/</link><pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/shifting-to-nvim/</guid><description>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.
+I was casually browsing Twitch, bored out of my mind looking for something fun.
+I for a random reason decided to search for &amp;ldquo;Software&amp;rdquo; and I saw the primeagen streaming..
+A goofball coder with Dr Disrespect asthetics. But also works at Netflix and has a solid knowledge of what he is doing with the code.</description><content>&lt;p>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.&lt;/p>
+&lt;p>I was casually browsing Twitch, bored out of my mind looking for something fun.&lt;/p>
+&lt;p>I for a random reason decided to search for &amp;ldquo;Software&amp;rdquo; and I saw the primeagen streaming..&lt;/p>
+&lt;p>A goofball coder with Dr Disrespect asthetics. But also works at Netflix and has a solid knowledge of what he is doing with the code.&lt;/p>
+&lt;p>And he was using terminal to edit the code.&lt;/p>
+&lt;p>This was not totally new to me.&lt;/p>
+&lt;p>I have heard of vi and nano before and have used them in my servers where the GUI were not available.&lt;/p>
+&lt;p>It&amp;rsquo;s been some time since I have used nano. Haven&amp;rsquo;t used it in the last 6 years to be exact, when I made the move to switch from Ubuntu to Arch Linux.&lt;/p>
+&lt;p>I had not always known how to exit vi but I figured it out soon.&lt;/p></content></item><item><title>Learning rust</title><link>https://vibecoder.dev/posts/rust/</link><pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/rust/</guid><description>First of all, rust is totally new to me.
 I do not understand what it is trying to resolve.
 First thing that I have learned is that ..
 The if statements do not need the paranenthesis. Shows up a weird warning. Should not be strict right..
