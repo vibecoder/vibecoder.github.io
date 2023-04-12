@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://vibecoder.dev/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/page/about/</guid><description>Hi, I am Vibhas Goyal.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://vibecoder.dev/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/page/about/</guid><description>Hi, I am Vibhas Goyal.
 Curretnly working as Senior Member of Technical Staff at Oracle. Working on the Oracle Analytics team.
 I studied from B.Tech (2014 - 2018) in Engineering Science and Computer Science from IIT Hyderabad.
 This is the about page and for me, this page can be considered as one of the most difficult page to write because it involves writing about my objective self.
@@ -23,9 +23,93 @@ https://ko-fi.com/vibecoder
 https://www.patreon.com/vibecoder
 https://discord.gg/FhujpH33xE
 https://www.youtube.com/@vibecoderdev
-&lt;/code>&lt;/pre></content></item><item><title>Resume</title><link>https://vibecoder.dev/page/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/page/resume/</guid><description>Please download my resume from here :
-Resume</description><content>&lt;p>Please download my resume from here :&lt;/p>
-&lt;p>&lt;a href="https://vibecoder.dev/resume2023.pdf">Resume&lt;/a>&lt;/p></content></item><item><title>My journey of switching code editors</title><link>https://vibecoder.dev/posts/shifting-to-nvim/</link><pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/shifting-to-nvim/</guid><description>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.
+&lt;/code>&lt;/pre></content></item><item><title>A study plan for google interview in 2 weeks.</title><link>https://vibecoder.dev/posts/preparation-for-google-interviews/</link><pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/preparation-for-google-interviews/</guid><description>First off, I am glad that my resume was selected for a google interview.
+I have never really prepared for interviews. It has been a long time and I am doing this to keep my chances of being employable and being employed.
+First, I am starting off with the cracking the coding interview book.
+I have not done enough leetcode problems but that&amp;rsquo;s fine. We will deal with it when it happens.</description><content>&lt;p>First off, I am glad that my resume was selected for a google interview.&lt;/p>
+&lt;p>I have never really prepared for interviews. It has been a long time and I am doing this to keep my chances of being employable and being employed.&lt;/p>
+&lt;p>First, I am starting off with the cracking the coding interview book.&lt;/p>
+&lt;p>I have not done enough leetcode problems but that&amp;rsquo;s fine. We will deal with it when it happens.&lt;/p>
+&lt;p>It&amp;rsquo;s kinda scary and exciting at the same time.&lt;/p>
+&lt;h2 id="notes-about-google">notes about google.&lt;/h2>
+&lt;p>Google cares about scaling web software as a web based company.&lt;/p>
+&lt;p>Interviewers do not make the hiring decision itself they send their recommendation to the executives.&lt;/p>
+&lt;p>The google interview is apparently tough.&lt;/p>
+&lt;h2 id="interview-questions">Interview Questions!&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>What was the hardest bug that you have ever faced?&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>why do you want to work for google.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="big-o">Big O&lt;/h2>
+&lt;p>small omega - lower bound&lt;/p>
+&lt;p>big omega - upper bound&lt;/p>
+&lt;p>theta - tight bound&lt;/p>
+&lt;p>O(n2 + n) = O(n2)&lt;/p>
+&lt;p>O(x!) &amp;gt; O(8^x) &amp;gt; O(2^x) &amp;gt; O(x^2) &amp;gt; O(xlogx) &amp;gt; O(x) &amp;gt; O(logx)&lt;/p>
+&lt;h3 id="learn-the-common-recursion-times">Learn the Common Recursion Times&lt;/h3>
+&lt;hr>
+&lt;h1 id="data-structures">Data-Structures&lt;/h1>
+&lt;p>ArrayList/Vectors&lt;/p>
+&lt;p>Linked List&lt;/p>
+&lt;p>Heaps&lt;/p>
+&lt;p>Hash Tables&lt;/p>
+&lt;p>Stacks and Queues ,&lt;/p>
+&lt;p>Trees , Tries and Graphs&lt;/p>
+&lt;hr>
+&lt;h1 id="algorithms">Algorithms&lt;/h1>
+&lt;p>BFS&lt;/p>
+&lt;p>DFS&lt;/p>
+&lt;p>BinarySearch&lt;/p>
+&lt;p>MergeSort&lt;/p>
+&lt;p>QuickSort&lt;/p>
+&lt;hr>
+&lt;h1 id="concepts">Concepts&lt;/h1>
+&lt;p>Bit Manipulation&lt;/p>
+&lt;p>Memory ( Stack vs Heap )&lt;/p>
+&lt;p>Recursion&lt;/p>
+&lt;p>Dynamic Programming&lt;/p>
+&lt;p>Big O time and Space.&lt;/p>
+&lt;hr>
+&lt;p>Power of 2 Table :&lt;/p>
+&lt;p>2^7 = 128&lt;/p>
+&lt;p>2^8 = 256&lt;/p>
+&lt;p>2^10 = ~ 1000&lt;/p>
+&lt;p>2^20 = ~ 1 million&lt;/p>
+&lt;p>2^30 = ~ 1 billion&lt;/p>
+&lt;p>2^32 = ~ 4 billion&lt;/p>
+&lt;p>2^40 = ~ 1 trillion&lt;/p>
+&lt;p>&amp;ndash;&lt;/p>
+&lt;h1 id="rereads">REREADS&lt;/h1>
+&lt;p>ReRead the chapter 7 carefully.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Listen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Example&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Brute Force&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Optimize&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Walk Through&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Implementation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Test&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;hr></content></item><item><title>My journey of switching code editors</title><link>https://vibecoder.dev/posts/shifting-to-nvim/</link><pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/posts/shifting-to-nvim/</guid><description>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.
 I was casually browsing Twitch, bored out of my mind looking for something fun.
 I for a random reason decided to search for &amp;ldquo;Software&amp;rdquo; and I saw the primeagen streaming..
 A goofball coder with Dr Disrespect asthetics. But also works at Netflix and has a solid knowledge of what he is doing with the code.</description><content>&lt;p>So sometime back , I decided to switch to the latest hotshot meme that I witnessed.&lt;/p>
