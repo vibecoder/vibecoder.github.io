@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://vibecoder.dev/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/page/about/</guid><description>Hi, I am Vibhas Goyal.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VibeCoder</title><link>https://vibecoder.dev/</link><description>Recent content on VibeCoder</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>All Copyrights Reseved. 2022 Vibhas Goyal</copyright><lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vibecoder.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://vibecoder.dev/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://vibecoder.dev/page/about/</guid><description>Hi, I am Vibhas Goyal.
 Curretnly working as Senior Member of Technical Staff at Oracle. Working on the Oracle Analytics team.
 I studied from B.Tech (2014 - 2018) in Engineering Science and Computer Science from IIT Hyderabad.
 This is the about page and for me, this page can be considered as one of the most difficult page to write because it involves writing about my objective self.
@@ -125,7 +125,7 @@ I do not understand what it is trying to resolve.
 First thing that I have learned is that ..
 The if statements do not need the paranenthesis. Shows up a weird warning. Should not be strict right..
 The semicolon is optional . Sometimes it matters othertimes it does not. This is confusing.
-println! statement is a macro.</description><content>&lt;p>First of all, rust is totally new to me.&lt;/p>
+println! statement is a macro.. what does a macro mean.</description><content>&lt;p>First of all, rust is totally new to me.&lt;/p>
 &lt;p>I do not understand what it is trying to resolve.&lt;/p>
 &lt;p>First thing that I have learned is that ..&lt;/p>
 &lt;ol>
@@ -279,7 +279,7 @@ Vesting is an important contract.</description><content>&lt;p>Business Lesson : 
 &lt;p>If the company stocks get into the hands of those who are idle. Then it acts as a hindrance to decision making.&lt;/p>
 &lt;p>Thus vesting ensures that equity is on the hands of those who are active.&lt;/p>
 &lt;p>See you soon. Peace :) \m/&lt;/p></content></item><item><title>Cost Leadership, Differentiation and Profit Models</title><link>https://vibecoder.dev/posts/cost-leadership-differentiation-profit-models/</link><pubDate>Sun, 02 Apr 2017 12:50:01 +0530</pubDate><guid>https://vibecoder.dev/posts/cost-leadership-differentiation-profit-models/</guid><description>So Today morning , All I had to do was attend class.
-This class was taught to us ( Minor in Entrepreneurship ) by Srini Addepalli ( Founder, GlobalGyan) I really enjoyed his teachings and found them to be very useful.
+This class was taught to us ( Minor in Entrepreneurship ) by Srini Addepalli ( Founder, GlobalGyan ) I really enjoyed his teachings and found them to be very useful.
 Here I would like to share some of my notes with you.
 Cost Leadership : The company reduces the cost of the product while selling the product at the average price.</description><content>&lt;p>So Today morning , All I had to do was attend class.&lt;/p>
 &lt;p>This class was taught to us ( Minor in Entrepreneurship ) by &lt;!-- raw HTML omitted -->Srini Addepalli ( Founder, &lt;!-- raw HTML omitted -->GlobalGyan&lt;!-- raw HTML omitted --> )
@@ -406,7 +406,7 @@ You have to take out the weeds.</description><content>&lt;p>A business is just l
 ( I am writing this down here as some of the content on official website has not been updated yet )
 No other IIT has it like ours.
 Although I am not going to declare it the best branch ever. But it&amp;rsquo;s quite close to that.
-B.Tech. in Engineering Science, at IIT Hyderabad,is a unique program offered in India for the first time.</description><content>&lt;p>Hi, I am Vibhas, studying Engineering Science at IITH ( 2014 batch ). So let me introduce you to our branch.&lt;/p>
+B.Tech. in Engineering Science, at IIT Hyderabad, is a unique program offered in India for the first time.</description><content>&lt;p>Hi, I am Vibhas, studying Engineering Science at IITH ( 2014 batch ). So let me introduce you to our branch.&lt;/p>
 &lt;p>( I am writing this down here as some of the content on official website has not been updated yet )&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;p>No other IIT has it like ours.&lt;/p>
