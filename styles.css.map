@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/runner/work/hugo-blog/hugo-blog/blog2",
+	"sourceRoot": "/Users/vibgoyal/vibecoder/hugo-blog/blog2",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",
