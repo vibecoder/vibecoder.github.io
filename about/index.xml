@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VibeCoder.Dev - Tech, Business, Health – About</title>
+    <title>VibeCoder.Dev - Software Dev Blog - Tech,Design,Business – About</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in About on VibeCoder.Dev - Tech, Business, Health</description>
+    <description>Recent content in About on VibeCoder.Dev - Software Dev Blog - Tech,Design,Business</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Feb 2025 23:11:35 +0530</lastBuildDate>
